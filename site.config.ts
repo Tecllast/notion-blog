@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Teclast' Blog',
+  name: 'Teclast',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Teclast',
 
