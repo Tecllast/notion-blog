@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Teclast',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'tec.ac.cn',
   author: 'Teclast',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Teclast' Personal Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  // twitter: 'transitive_bs',
+  github: 'Tecllast',
+  // linkedin: 'fisch2',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
